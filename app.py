@@ -1,3 +1,4 @@
+# KR2: Vasin
 import os
 import socket
 
